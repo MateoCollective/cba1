@@ -1,0 +1,69 @@
+{
+  "name": "AbilBotz",
+  "version": "1.0.0",
+  "description": "Gak Ada",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "AbilBotz",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "async": "^2.4.1",
+    "remove.bg": "^1.3.0",
+    "awesome-phonenumber": "^2.48.0",
+    "browser-id3-writer": "^4.4.0",
+    "cfonts": "^2.9.0",
+    "child_process": "^1.0.2",
+    "axios": "^0.21.1",
+    "brainly-scraper": "^1.0.3",
+    "file-type": "^16.3.0",
+    "image-to-base64": "^2.2.0",
+    "parse-ms": "^2.1.0",
+    "performance-now": "^2.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "qs": "^6.10.1",
+    "scraper-instagram": "^1.0.17",
+    "insta-fetcher": "^1.2.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "emoji-api": "^1.0.2",
+    "chalk": "^4.1.1",
+    "fake-useragent": "^1.0.1",
+    "figlet": "^1.5.0",
+    "file-type": "^16.5.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.0.0",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "got": "^11.8.2",
+    "imgbb-uploader": "^1.3.3",
+    "jsdom": "^16.6.0",
+    "moment-timezone": "^0.5.33",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.2",
+    "parse-ms": "^2.1.0",
+    "qrcode": "^1.4.4",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "telegraph-uploader": "^2.0.0",
+    "twitter-url-direct": "^1.0.1",
+    "util": "^0.12.4",
+    "window-size": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbilBotz/"
+  },
+  "bugs": {
+    "url": "https://github.com/AbilBotz/isues"
+  },
+  "homepage": "https://github.com/AbilBotz/AbilBotz"
+}
